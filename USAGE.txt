@@ -1,0 +1,12 @@
+This is instructions file for using the code of the project
+
+1. To run the project code, simply run
+python3 game.py
+
+2. An intuitive interface will be displayed.
+In this interface you will be able to set 2 agents for a single game of Halma.
+For each agent you will choose (by entering input) its properties, for example, for Minimax agent you will choose depth,
+time-limit per move, Evaluation Function etc.
+
+3. For your convenience, as we concluded on the paper, the optimal agent we found is
+depth-2 Iterative Deepening Alpha-Beta Agent with evaluation function: Euclidean(1), Lone-wolf(0.14)  (f1 in the menu)
